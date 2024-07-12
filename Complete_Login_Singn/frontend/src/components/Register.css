@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    margin: 1% auto;
+ 
+    background-color:white;
+    box-shadow: 0 0 100px #BBE9FF;
+    border-radius: 20px ;
+}
+body{
+    background-color: #B1AFFF
+}
+.middle{
+    width: 100%;
+    
+}
